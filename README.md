@@ -1,7 +1,7 @@
 # CustomToastNotification
 
-![alt tag](http://sv1.upsieutoc.com/2017/09/07/materalDesign2.png)
-![alt tag](http://sv1.upsieutoc.com/2017/09/07/materialDesign1.png)
+![alt tag](https://github.com/DauBv/Material-Design/blob/master/screenshot/device-2018-03-15-155628.png)
+![alt tag](https://github.com/DauBv/Material-Design/blob/master/screenshot/device-2018-03-15-155717.png)
 
 
 
